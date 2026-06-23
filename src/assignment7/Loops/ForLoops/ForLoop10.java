@@ -1,4 +1,4 @@
-package assignment7.Loop1.ForLoops;
+package assignment7.Loops.ForLoops;
 
 // 10. Write a program to print all odd numbers between 1 to 100 without using if condition.
 

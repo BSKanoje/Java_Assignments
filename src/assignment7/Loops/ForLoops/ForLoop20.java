@@ -1,4 +1,4 @@
-package assignment7.Loop1.ForLoops;
+package assignment7.Loops.ForLoops;
 
 // 20. Print 10 stars horizontally
 

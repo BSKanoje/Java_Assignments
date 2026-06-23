@@ -1,4 +1,4 @@
-package assignment7.Loop1.ForLoops;
+package assignment7.Loops.ForLoops;
 
 //2. Write a program to print all natural numbers in reverse from 100.
 

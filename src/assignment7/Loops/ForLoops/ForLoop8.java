@@ -1,4 +1,4 @@
-package assignment7.Loop1.ForLoops;
+package assignment7.Loops.ForLoops;
 
 // 8. Write a program to print all even numbers between 1 to 100 without using if condition.
 
