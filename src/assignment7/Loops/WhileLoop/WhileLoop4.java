@@ -1,15 +1,17 @@
 package assignment7.Loops.WhileLoop;
 
-//1. Print numbers from 1 to 10 using a while loop.
+// 4. Print all odd numbers between 1 to 50.
 
-public class WhileLoop1 {
+public class WhileLoop4 {
 
 	public static void main(String[] args) {
+		
+		int n = 50;
 		int i = 1;
 		
-		while(i <= 10) {
+		while(i <= n) {
 			System.out.println(i);
-			i++;
+			i+=2;
 		}
 	}
 
